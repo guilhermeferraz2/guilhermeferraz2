@@ -1,4 +1,4 @@
-### Olá: Me chamo Guilherme Ferraz2 👋
+### Olá: Guilherme Ferraz2 aqui 👋
 
 -->
 - 🌱 Estou atualmente estudando front-end: HTML5, CSS e JavaScript
